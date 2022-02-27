@@ -6,5 +6,6 @@ Data visualization of the MiFit (Android app) data:
 - Sleep
 
 Tools:
+- Tableau
 - Power BI
 - Power Query
